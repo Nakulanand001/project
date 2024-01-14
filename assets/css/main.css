@@ -2046,6 +2046,10 @@ background-attachment: fixed;
         width: 100%;
       }
     }
+.grid .container .col{
+padding: 0px 5px;
+
+}
   
 /* Media queries for responsiveness */
 
