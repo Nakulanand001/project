@@ -878,6 +878,40 @@ section {
     font-size: 10px;
   }
 }
+@media screen and (max-width: 768px) {
+  .footer .footer-about .logo span {
+    font-size: 16px;
+  }
+
+  .footer .footer-about p {
+    font-size: 10px;
+  }
+
+  .footer .social-links a {
+    font-size: 12px;
+  }
+
+  .footer h4 {
+    font-size: 14px;
+  }
+
+  .footer .footer-links ul i {
+    font-size: 10px;
+  }
+
+  .footer .footer-links ul a {
+    font-size: 12px;
+  }
+
+  .footer .footer-contact p {
+    font-size: 10px;
+  }
+
+  .footer .credits {
+    font-size: 10px;
+  }
+}
+
 
 
 /*--------------------------------------------------------------
