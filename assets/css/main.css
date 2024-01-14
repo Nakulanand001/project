@@ -244,12 +244,16 @@ section {
   }
 }
 @media (max-width: 768px) {
+.hero{
+    min-height: 50vh;
+  }
   .header {
     padding: 14px 0; /* Adjust padding for smaller screens */
   }
 
   .header .logo h1 {
     font-size: 16px; /* Adjust font size for smaller screens */
+	
   }
 
   .header .logo span {
