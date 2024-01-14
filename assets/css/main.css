@@ -288,7 +288,12 @@ section {
     scroll-margin-top: 66px;
   }
 }
-
+@media (max-width: 768px) {
+  iframe {
+    width: 100%; /* Adjusted width for smaller screens */
+    height: 200px; /* Adjusted height for smaller screens */
+  }
+}
 /* Home Page Custom Header
 ------------------------------*/
 .index-page .header {
