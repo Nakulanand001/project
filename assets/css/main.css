@@ -257,8 +257,8 @@ section {
   }
 
   .header .btn-getstarted {
-    font-size: 14px; /* Adjust font size for smaller screens */
-    padding: 6px 6px 6px 6px; /* Adjust padding for smaller screens */
+    font-size: 12px; /* Adjust font size for smaller screens */
+    padding: 5px 5px 5px 5px; /* Adjust padding for smaller screens */
   }
   .header img{
     width: 40px;
