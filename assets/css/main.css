@@ -245,20 +245,20 @@ section {
 }
 @media (max-width: 768px) {
   .header {
-    padding: 16px 0; /* Adjust padding for smaller screens */
+    padding: 18px 0; /* Adjust padding for smaller screens */
   }
 
   .header .logo h1 {
-    font-size: 16px; /* Adjust font size for smaller screens */
+    font-size: 18px; /* Adjust font size for smaller screens */
   }
 
   .header .logo span {
-    font-size: 16px; /* Adjust font size for smaller screens */
+    font-size: 18px; /* Adjust font size for smaller screens */
   }
 
   .header .btn-getstarted {
     font-size: 14px; /* Adjust font size for smaller screens */
-    padding: 5px 5px 5px 5px; /* Adjust padding for smaller screens */
+    padding: 10px 10px 10px 10px; /* Adjust padding for smaller screens */
   }
   .header img{
     width: 40px;
