@@ -847,7 +847,7 @@ section {
 /* Responsive styles for very small screens */
 @media screen and (max-width: 320px) {
   .footer .footer-about .logo span {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .footer .footer-about p {
