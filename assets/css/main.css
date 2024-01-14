@@ -1973,7 +1973,7 @@ background-attachment: fixed;
       float: none;
     }
     .grid img{
-      height: 100px;
+      height: 150px;
       width: 100%;
     }
   }
@@ -1990,7 +1990,7 @@ background-attachment: fixed;
     margin:0 auto;
   }
   .grid img{
-    height: 100px;
+    height: 150px;
     width: 100%;
   }}
 
