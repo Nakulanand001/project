@@ -244,29 +244,25 @@ section {
   }
 }
 @media (max-width: 768px) {
-.hero{
-    min-height: 50vh;
-  }
   .header {
-    padding: 14px 0; /* Adjust padding for smaller screens */
+    padding: 10px 0; /* Adjust padding for smaller screens */
   }
 
   .header .logo h1 {
-    font-size: 16px; /* Adjust font size for smaller screens */
-	
+    font-size: 10px; /* Adjust font size for smaller screens */
   }
 
   .header .logo span {
-    font-size: 16px; /* Adjust font size for smaller screens */
+    font-size: 10px; /* Adjust font size for smaller screens */
   }
 
   .header .btn-getstarted {
     font-size: 10px; /* Adjust font size for smaller screens */
-    padding: 5px 5px 5px 5px; /* Adjust padding for smaller screens */
+    padding: 0px 0px 0px 0px; /* Adjust padding for smaller screens */
   }
   .header img{
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
   }
 }
 }
@@ -1026,6 +1022,10 @@ section {
 }
 
 @media (max-width: 768px) {
+
+  .hero {
+    min-height: 300px; /* Adjusted min-height for smaller screens */
+  }
   .hero h2 {
     font-size: 32px;
   }
@@ -1041,9 +1041,10 @@ section {
 }
 @media (max-width: 768px) {
   #kenburns {
-    background-size: 100% 100%;
+    background-size: 100% 100%; /* Adjusted background size for smaller screens */
     background-repeat: no-repeat;
-    
+    /* Adjusted min-height for smaller screens */
+    height: 300px;
   }
 }
 
